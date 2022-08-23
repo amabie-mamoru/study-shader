@@ -3,7 +3,7 @@
 /// Roystan さんのトゥーンシェーダーチュートリアルを手元の Unity でごにょごにょいじりながら日本語解説を入れた奴
 /// 正直まだよくわかっていない部分も多分にあるが、ひとまず流れと雰囲気は掴めたのでアップして見返せるようにしておく
 /// </summary>
-Shader "Roystan/Shadow Receiver"
+Shader "Roystan/Toon Complete"
 {
 	Properties
 	{
